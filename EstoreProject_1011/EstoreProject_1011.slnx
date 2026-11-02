@@ -1,5 +1,15 @@
 <Solution>
   <Folder Name="/EstoreAdmin/">
+    <Project Path="EstoreAdmin/EstoreAdminModel/EstoreAdminModel.csproj" Id="7f047e2f-239e-4e30-8548-9b8f6e96eda0" />
     <Project Path="EstoreAdmin/EStoreAdminModule/EStoreAdminModule.csproj" Id="8f37ba28-a829-4011-b404-a231829f847b" />
+    <Project Path="EstoreAdmin/EStoreAdminRepository/EStoreAdminRepository.csproj" Id="145d5120-3369-4f13-9da6-db8a3be17e0b" />
+    <Project Path="EstoreAdmin/EstoreAdminService/EstoreAdminService.csproj" Id="e1e0fc16-6cef-427b-8aae-f1db10f81e05" />
+  </Folder>
+  <Folder Name="/Services/" />
+  <Folder Name="/Services/Catalog/">
+    <Project Path="Services/Catalog/Catalog.API/Catalog.API.csproj" Id="76d84e86-ccc8-40a0-992f-628c0092ba35" />
+    <Project Path="Services/Catalog/Catalog.Application/Catalog.Application.csproj" Id="ffa2d3c0-c984-4160-a954-e90a460d716a" />
+    <Project Path="Services/Catalog/Catalog.Core/Catalog.Core.csproj" Id="b6ab15fb-7fb1-4740-bd88-8e58903725ef" />
+    <Project Path="Services/Catalog/Catalog.Infrastructure/Catalog.Infrastructure.csproj" Id="4334cd3c-d5f9-47b9-bee0-88f3f429c0f3" />
   </Folder>
 </Solution>

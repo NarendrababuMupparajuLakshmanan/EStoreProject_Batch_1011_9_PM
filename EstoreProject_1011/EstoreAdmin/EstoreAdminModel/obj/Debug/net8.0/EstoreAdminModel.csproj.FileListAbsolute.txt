@@ -1,0 +1,13 @@
+D:\Git_EStore_Project_1011\EstoreProject_1011\EstoreAdmin\EstoreAdminModel\bin\Debug\net8.0\EstoreAdminModel.deps.json
+D:\Git_EStore_Project_1011\EstoreProject_1011\EstoreAdmin\EstoreAdminModel\bin\Debug\net8.0\EstoreAdminModel.dll
+D:\Git_EStore_Project_1011\EstoreProject_1011\EstoreAdmin\EstoreAdminModel\bin\Debug\net8.0\EstoreAdminModel.pdb
+D:\Git_EStore_Project_1011\EstoreProject_1011\EstoreAdmin\EstoreAdminModel\obj\Debug\net8.0\EstoreAdminModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_EStore_Project_1011\EstoreProject_1011\EstoreAdmin\EstoreAdminModel\obj\Debug\net8.0\EstoreAdminModel.AssemblyInfoInputs.cache
+D:\Git_EStore_Project_1011\EstoreProject_1011\EstoreAdmin\EstoreAdminModel\obj\Debug\net8.0\EstoreAdminModel.AssemblyInfo.cs
+D:\Git_EStore_Project_1011\EstoreProject_1011\EstoreAdmin\EstoreAdminModel\obj\Debug\net8.0\EstoreAdminModel.csproj.CoreCompileInputs.cache
+D:\Git_EStore_Project_1011\EstoreProject_1011\EstoreAdmin\EstoreAdminModel\obj\Debug\net8.0\EstoreAdminModel.sourcelink.json
+D:\Git_EStore_Project_1011\EstoreProject_1011\EstoreAdmin\EstoreAdminModel\obj\Debug\net8.0\EstoreAdminModel.dll
+D:\Git_EStore_Project_1011\EstoreProject_1011\EstoreAdmin\EstoreAdminModel\obj\Debug\net8.0\refint\EstoreAdminModel.dll
+D:\Git_EStore_Project_1011\EstoreProject_1011\EstoreAdmin\EstoreAdminModel\obj\Debug\net8.0\EstoreAdminModel.pdb
+D:\Git_EStore_Project_1011\EstoreProject_1011\EstoreAdmin\EstoreAdminModel\obj\Debug\net8.0\ref\EstoreAdminModel.dll
+D:\Git_EStore_Project_1011\EstoreProject_1011\EstoreAdmin\EstoreAdminModel\obj\Debug\net8.0\EstoreAd.C28EE017.Up2Date

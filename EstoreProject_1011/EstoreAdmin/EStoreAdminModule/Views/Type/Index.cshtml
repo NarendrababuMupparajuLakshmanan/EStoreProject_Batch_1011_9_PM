@@ -1,0 +1,71 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using EstoreAdminModel.Models.Types;
+@model IEnumerable<TypeModel>
+
+<html>
+<head>
+    <title>List of Types</title>
+    <link href="~/Bootstrap/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div class="row mt-1">
+            <div class="h1 bg-primary text-white p-3 text-center">
+                List of Types
+            </div>
+        </div>
+
+        <div class="row mt-3">
+            <div class="col-lg-3 col-md-3 col-sm-3">
+                <a class="btn btn-primary"
+                   asp-controller="Type"
+                   asp-action="CreateType">
+                    New Type
+                </a>
+            </div>
+        </div>
+
+        <div class="row mt-3">
+            <div class="col-md-12">
+                <table class="table table-bordered table-primary table-hover table-striped">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th>Edit</th>
+                            <th>Delete</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var type in Model)
+                        {
+                            <tr>
+                                <td>@type.Id</td>
+                                <td>@type.Name</td>
+                                <td>
+                                    <a class="btn btn-outline-secondary"
+                                       asp-controller="Type"
+                                       asp-action="EditType"
+                                       asp-route-Id="@type.Id">
+                                        Edit
+                                    </a>
+                                </td>
+                                <td>
+                                    <a class="btn btn-outline-danger"
+                                       asp-controller="Type"
+                                       asp-action="Delete"
+                                       asp-route-Id="@type.Id">
+                                        Delete
+                                    </a>
+                                </td>
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

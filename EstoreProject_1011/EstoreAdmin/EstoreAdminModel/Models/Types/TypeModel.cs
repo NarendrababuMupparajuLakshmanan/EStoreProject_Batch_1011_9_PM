@@ -1,0 +1,10 @@
+﻿namespace EstoreAdminModel.Models.Types
+{
+    public class TypeModel
+    {
+        public Guid Id { get; set; }
+
+        public string Name { get; set; } = string.Empty;
+
+    }
+}
